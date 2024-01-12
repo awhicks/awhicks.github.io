@@ -1,7 +1,7 @@
 ---
 title: "CS 4104: Data and Algorithm Analysis"
 collection: teaching
-type: "Undergraduate course"
+type: "Instructor of Record"
 permalink: /teaching/2024-spring
 venue: "Virginia Tech Computer Science"
 date: 2024-01-16
