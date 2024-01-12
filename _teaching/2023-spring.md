@@ -1,7 +1,7 @@
 ---
 title: "CS 3704: Intermediate Software Engineering"
 collection: teaching
-type: "Undergraduate course"
+type: "Instructor of Record"
 permalink: /teaching/2023-spring
 venue: "Virginia Tech Computer Science"
 date: 2023-01-14
