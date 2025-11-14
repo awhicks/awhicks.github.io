@@ -1,5 +1,5 @@
 ---
-title: "CS 5040: Intermediate Data and Algorithm Analysis"
+title: "CS 3114: Data and Algorithm Analysis"
 collection: teaching
 type: "Head Graduate Teaching Assistant"
 permalink: /teaching/2025-spring

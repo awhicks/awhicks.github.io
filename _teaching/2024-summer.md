@@ -1,5 +1,5 @@
 ---
-title: "CS 3114/5040: Intermediate Data and Algorithm Analysis"
+title: "CS 3114/5040: Data and Algorithm Analysis"
 collection: teaching
 type: "Instructor of Record"
 permalink: /teaching/2024-summer
