@@ -2,7 +2,7 @@
 title: "Test Case-Informed Knowledge Tracing for Open-ended Coding Tasks"
 collection: publications
 permalink: /publication/Test-Case-Informed-Knowledge-Tracing-for-Open-ended-Coding-Tasks
-date: 2025
+date: 2025-03-03
 venue: 'In the proceedings of 15th International Learning Analytics and Knowledge Conference, 2025'
 ---
 

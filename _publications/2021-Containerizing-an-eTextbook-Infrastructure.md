@@ -2,7 +2,7 @@
 title: "Containerizing an eTextbook Infrastructure"
 collection: publications
 permalink: /publication/Containerizing-an-eTextbook-Infrastructure
-date: 2021
+date: 2021-06-29
 venue: 'In the proceedings of Proceedings of the 5th Educational Data Mining in Computer Science Education, 2021'
 ---
 
