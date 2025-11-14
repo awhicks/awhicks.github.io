@@ -6,6 +6,6 @@ date: 2020-12-18
 venue: 'Proceedings of CS 5604'
 ---
 
-[Download paper here](http://awhicks.github.io/files/report_2020.pdf)
+[Download paper](http://awhicks.github.io/files/report_2020.pdf)
 
 Use [Google Scholar](https://scholar.google.com/scholar?q=Integration+and+Implementation+(Int)+Cs+5604+F2020){:target="_blank"} for full citation

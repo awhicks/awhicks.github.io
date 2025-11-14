@@ -9,3 +9,5 @@ location: "Blacksburg, VA"
 ---
 
 Explores the principles of software design in detail, with an emphasis on software engineering aspects. Includes exposure of software lifecycle activities including design, coding, testing, debugging, and maintenance, highlighting how design affects these activities. Peer reviews, designing for software reuse, CASE tools, and writing software to specifications are also covered.
+
+[Evaluation](http://awhicks.github.io/files/CS_3704_Spring_2023.pdf)
