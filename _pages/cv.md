@@ -90,7 +90,7 @@ Advising
   * Sa Hyun Min: BS Computer Science at Virginia Tech - 2021
   * Sean Gruber: BS Computer Science at Virginia Tech - 2020
   * Peixuan Ge: BS Computer Science at Virginia Tech - 2020-2021
-  
+
 Service and leadership
 ======
 * Advisor: Computer Science Graduate Council - 2023-2024

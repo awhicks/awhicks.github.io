@@ -8,4 +8,4 @@ date: 2024-01-16
 location: "Blacksburg, VA"
 ---
 
-Data structures and algorithms from an analytical perspective. Theoretical analysis of algorithm efficiency. Comparing algorithms with respect to space and run-time requirements. Analytical methods for describing theoretical and practical bounds on performance. Constraints affecting problem solvability. 
+Data structures and algorithms from an analytical perspective. Theoretical analysis of algorithm efficiency. Comparing algorithms with respect to space and run-time requirements. Analytical methods for describing theoretical and practical bounds on performance. Constraints affecting problem solvability.
