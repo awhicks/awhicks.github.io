@@ -3,7 +3,7 @@ title: "Integration and Implementation (Int) Cs 5604 F2020"
 collection: publications
 permalink: /publication/Integration-and-Implementation-Int-CS-5604-F2020
 date: 2020-12-18
-venue: 'In the proceedings of CS 5604'
+venue: 'proceedings of CS 5604'
 ---
 
 [Download paper here](http://awhicks.github.io/files/report_2020.pdf)
