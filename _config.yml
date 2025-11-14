@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "PhD Student at Virginia Tech interested in CS Education"
   location         : "Blacksburg, VA"
-  employer         :
+  employer         : "Virginia Tech"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Z7TwMQMAAAAJ"
   email            : "alexhicks@vt.edu"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/awh4kc/"
   orcid            : "http://orcid.org/0000-0002-2143-2633"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Alex_Hicks_VT"
+  twitter          :
   vine             :
   weibo            :
   xing             :
