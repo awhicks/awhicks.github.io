@@ -3,7 +3,7 @@ title: "Live Catalog of Smart Learning Objects for Computer Science Education"
 collection: publications
 permalink: /publication/Live-Catalog-of-Smart-Learning-Objects-for-Computer-Science-Education
 date: 2020-08-12
-venue: 'In the proceedings of Sixth SPLICE Workshop, 2020'
+venue: 'Proceedings of Sixth SPLICE Workshop, 2020'
 ---
 
 [Download paper here](http://awhicks.github.io/files/splice_2020.pdf)
