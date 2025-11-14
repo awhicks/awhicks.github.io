@@ -3,7 +3,7 @@ title: "An Approach to Detect Abnormal Submissions for CodeWorkout Dataset"
 collection: publications
 permalink: /publication/An-Approach-to-Detect-Abnormal-Submissions-for-CodeWorkout-Dataset
 date: 2024-07-14
-venue: 'In the proceedings of Proceedings of the 8th Educational Data Mining in Computer Science Education, 2024'
+venue: 'Proceedings of Proceedings of the 8th Educational Data Mining in Computer Science Education, 2024'
 ---
 
 [Download paper here](http://awhicks.github.io/files/splice_2020.pdf)
