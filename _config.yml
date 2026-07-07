@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alex Hicks"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at Virginia Tech interested in CS Education"
-  location         : "Blacksburg, VA"
-  employer         : "Virginia Tech"
+  bio              : "Assistant Teaching Professor"
+  location         : "Winston-Salem, NC"
+  employer         : "Wake Forest University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Z7TwMQMAAAAJ"
-  email            : "alexhicks@vt.edu"
+  email            : "alexhicks@wfu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
