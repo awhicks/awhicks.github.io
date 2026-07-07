@@ -3,12 +3,12 @@ permalink: /
 title: "About Me"
 excerpt: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a final year PhD candidate at [Virginia Tech](https://cs.vt.edu/) advised by [Dr. Cliff Shaffer](https://people.cs.vt.edu/shaffer/) and [Dr. Stephen Edwards](https://people.cs.vt.edu/~edwards/). I recieved my B.S. in Computer Science and History from the University of Virginia. 
+I am an Assistant Teaching Professor at [Wake Forest](https://https://cs.wfu.edu/). I am finishing my Ph.D. in Computer Science at [Virginia Tech](https://cs.vt.edu/) with [Dr. Cliff Shaffer](https://people.cs.vt.edu/shaffer/) and [Dr. Stephen Edwards](https://people.cs.vt.edu/~edwards/) where I also received my M.S. in Computer Science. I also recieved my B.S. in Computer Science and History from the [University of Virginia](https://engineering.virginia.edu/department/computer-science).
 
 My research interests are broadly in computer science education and software engineering. For my dissertation, I am interested in students' help seeking behavior related to office hour interactions, how both students and TAs prepare for them, and what factors impact how students and TAs perceive these interactions. It is important to ensure these opportunities support and welcome students of diverse backgrounds to encourage their persistence in computer science.
 
